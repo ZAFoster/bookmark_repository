@@ -216,7 +216,7 @@
           <ul class="links">
             <h1>Bookmark Views</h1><br />
             <li><a href="/bookmarks/new">New Bookmark</a></li>
-            <li><a href="/bookmarks">Show Bookmarks</a></li>
+            <li><a href="/bookmarks/show">Show Bookmarks</a></li>
           </ul>
         </div>
       </div>
